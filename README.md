@@ -29,5 +29,5 @@ Heads up: This app will 99.9999999999999% of the time fail to download with erro
 # Credits
 Made all by me =p
 
-I AM NOT IN ANY WAY IFFILIATED WITH TICO, THIS IS AN UNOFICIAL APP 
+I AM NOT IN ANY WAY AFFILIATED WITH TICO, THIS IS AN UNOFICIAL APP 
 use at your own risk!
