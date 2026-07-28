@@ -4,7 +4,7 @@ A new way to install 3ds games right to the tico emulator on your nintendo switc
 originally based on hShop, this lets you download any game and update to the tico/roms/3DS folder on your sd card
 
 
-# Perquisites
+# Prequisites
 
 You must have the tico.nro file in switch/tico on your sd card
 You must have the azahar 3ds core downloaded and UP TO DATE
